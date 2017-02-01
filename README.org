@@ -1,0 +1,9 @@
+#+AUTHOR: Evan Wilde
+* Dendrite
+
+#+CAPTION: Generated Dendrite structure
+[[dendrites.png]]
+
+Grows dendrite-like crystal structures in the naive way. Particles are randomly
+placed and wiggle randomly until they collide with the dendrite structure.
+Upon collision, they are added to the dendrite, effectively making it larger.
